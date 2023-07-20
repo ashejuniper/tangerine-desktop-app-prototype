@@ -1,2 +1,3 @@
-# tangerine-desktop-app-prototype
- ♥ Prototype GUI for the Tangerine desktop app ♥
+# Tangerine Desktop App (Prototype)
+
+♥ Prototype GUI for the Tangerine desktop app ♥
