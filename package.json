@@ -1,0 +1,13 @@
+{
+  "name": "@ashelynne-juniper/tangerine-desktop-app-prototype",
+  "version": "0.1.0",
+  "description": "♥ Prototype GUI for the Tangerine desktop app ♥",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "sogouda .",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Ashelynne Juniper",
+  "license": "MPL-2.0"
+}
